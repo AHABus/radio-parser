@@ -11,7 +11,7 @@ Dl-Fldigi available at <https://github.com/ahabus/dl-fldigi>.
 
 ## Usage
 
-The parser is built by calling `make fcore-parser`Once dl-fldigi is running, the
-parser is started by calling `fcore-parser`. System messages and location are
-printed to `stdout`. Data and logs for each payload are saved in the current 
+The parser is built by calling `make ahabus-parser`Once dl-fldigi is running,
+the parser is started by calling `ahabus-parser`. System messages and location
+are printed to `stdout`. Data and logs for each payload are saved in the current 
 directory.

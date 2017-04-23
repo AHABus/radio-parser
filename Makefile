@@ -1,7 +1,7 @@
 SHELL			:= bash
 STD				:= c99
 
-TARGET			:= fcore-parser
+TARGET			:= ahabus-parser
 
 SOURCE_DIR		:= ./src
 BUILD_DIR		:= ./build
